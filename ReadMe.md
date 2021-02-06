@@ -7,3 +7,6 @@ Server used for two clients with sockets for
 ServeurIHM_11
 -----------------------------------
 Server for many servers and one client
+
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
